@@ -53,10 +53,10 @@ global:
     thousandsDivider: .
     decimalSeparator: ","
     suffix:
-        thousands: k
-        millions: M
-        billions: B
-        trillions: T
+        thousands: D
+        millions: m
+        billions: M
+        trillions: b
     infinite: inf
     time:
         oneSecondAgo: één seconde geleden
